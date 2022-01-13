@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Following the video walkthroughs was fairly easy. There we're some issues with importing certain references that the videos did not mention. Learning how to use intents took some time as well and much googling.
 
 ## License
 
