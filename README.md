@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- Following the video walkthroughs was fairly easy. There were some issues with importing certain references that the videos did not mention, but solving that was easy enough thanks to Android Studio's suggested solutions.. Learning how to use intents took some time as well and much googling.
+- Following the video walkthroughs was fairly easy. There were some issues with importing certain references that the videos did not mention, but solving that was easy enough thanks to Android Studio's suggested solutions.. Learning how to use intents took some time as well and much googling. Also, my Computer is extremley slow when running the emulator.
 
 ## License
 
